@@ -1,0 +1,5 @@
+interface:
+  display_name: "Хьюманайзер"
+  short_description: "Точечная редактура с сохранением голоса автора"
+policy:
+  allow_implicit_invocation: true
